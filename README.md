@@ -87,3 +87,4 @@ sqlite3 data/idioms.sqlite < data/idioms_seed.sql
 - GitHub 发布步骤见 `docs/publish-checklist.md`。
 - 禅道需求模板见 `docs/zentao-entry.md`。
 - 项目进展记录见 `docs/progress.md`。
+- 持续推进任务见 `docs/tasks.md`。

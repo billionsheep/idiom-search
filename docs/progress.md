@@ -10,6 +10,7 @@
 - 已实现精确查询、关键词模糊查询、冷僻列表和数据统计。
 - 已补齐 README、LICENSE、AGENTS 和禅道登记模板。
 - 已新增 `scripts/verify.sh`，用于每次提交前验证项目可运行。
+- 已新增 GitHub Issue/PR 模板，便于后续协作补数据和提功能。
 
 待外部确认：
 
