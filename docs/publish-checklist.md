@@ -54,7 +54,7 @@ cd /Users/moon/Workspace/projects/juege/idiom-search
 
 ## 4. 禅道登记
 
-当前 `Leon` 账号可以登录，并已创建个人待办 `#1 成语检索工具 MVP`。
+当前 `Leon` 账号可以登录，并已创建且完成个人待办 `#1 成语检索工具 MVP`，待办描述已记录 GitHub 仓库地址。
 
 如果团队要求正式产品研发需求，需要管理员给 `Leon` 增加 `osh-platform` 下创建研发需求的权限。
 

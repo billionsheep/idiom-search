@@ -16,7 +16,7 @@
 
 - GitHub 个人远程仓库已创建并推送：`https://github.com/billionsheep/idiom-search`。
 - 后续如拿到 `juege-osh` 组织权限，可再迁移到 `juege-osh/idiom-search`。
-- 已使用 `Leon` 账号创建个人待办 `#1 成语检索工具 MVP`。
+- 已使用 `Leon` 账号创建并完成个人待办 `#1 成语检索工具 MVP`，描述中已补充 GitHub 仓库地址。
 - `Leon` 当前访问 `story-create` 返回访问受限；如果团队要求正式产品研发需求，需要管理员给 `osh-platform` 下的需求创建权限。
 
 下一步：
