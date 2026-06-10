@@ -1,0 +1,9 @@
+[package]
+name = "idiom-search"
+version = "0.1.0"
+edition = "2024"
+description = "A lightweight Chinese idiom search CLI backed by a bundled SQLite data file."
+license = "MIT"
+
+[dependencies]
+rusqlite = { version = "0.37.0", features = ["bundled"] }
