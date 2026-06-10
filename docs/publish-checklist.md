@@ -2,6 +2,8 @@
 
 ## 1. 创建 GitHub 仓库
 
+`idiom-search` 是独立轻量项目，应创建独立仓库，不放进 `osh-backend` 或 `osh-frontend`。
+
 优先创建组织仓库：
 
 - 仓库名：`idiom-search`
@@ -48,7 +50,9 @@ cd /Users/moon/Workspace/projects/juege/idiom-search
 
 ## 4. 禅道登记
 
-如果 `leno` 或 `leon` 默认账号登录失败，先找冬木或觉哥确认账号。
+当前 `Leon` 账号可以登录，并已创建个人待办 `#1 成语检索工具 MVP`。
+
+如果团队要求正式产品研发需求，需要管理员给 `Leon` 增加 `osh-platform` 下创建研发需求的权限。
 
 登记内容直接复制：
 

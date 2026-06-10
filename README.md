@@ -88,3 +88,4 @@ sqlite3 data/idioms.sqlite < data/idioms_seed.sql
 - 禅道需求模板见 `docs/zentao-entry.md`。
 - 项目进展记录见 `docs/progress.md`。
 - 持续推进任务见 `docs/tasks.md`。
+- 独立仓库决策见 `docs/decisions.md`。
