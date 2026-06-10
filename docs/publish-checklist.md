@@ -11,6 +11,10 @@
 - 可见性：公开
 - 不要初始化 README、LICENSE 或 `.gitignore`，本地项目已经包含这些文件。
 
+当前已先创建并推送个人仓库：
+
+- `https://github.com/billionsheep/idiom-search`
+
 如果没有组织权限，先创建个人仓库：
 
 - 仓库名：`idiom-search`

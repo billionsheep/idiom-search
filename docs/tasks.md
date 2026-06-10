@@ -2,7 +2,6 @@
 
 ## Doing
 
-- 推送 GitHub 仓库：等待创建 `idiom-search` 远程仓库。
 - 禅道正式需求：个人待办已创建；等待管理员开放产品需求创建权限。
 
 ## Next
@@ -20,3 +19,4 @@
 - 实现精确查询、关键词查询、冷僻列表和统计。
 - 补齐 README、禅道模板、发布清单和验证脚本。
 - 创建禅道个人待办 `#1 成语检索工具 MVP`。
+- 推送 GitHub 个人仓库：`https://github.com/billionsheep/idiom-search`。
