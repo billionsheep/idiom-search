@@ -76,7 +76,14 @@ sqlite3 data/idioms.sqlite < data/idioms_seed.sql
 
 ## 持续推进方向
 
+- 每次提交前运行 `./scripts/verify.sh`，确保项目保持可运行。
 - 补充更多冷僻成语和古语。
 - 增加按标签筛选。
 - 增加导出 JSON/CSV。
 - 后续可扩展 Web 页面或 HTTP API。
+
+## 发布与禅道登记
+
+- GitHub 发布步骤见 `docs/publish-checklist.md`。
+- 禅道需求模板见 `docs/zentao-entry.md`。
+- 项目进展记录见 `docs/progress.md`。

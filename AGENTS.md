@@ -9,3 +9,4 @@
 - 修改数据时优先更新 `data/idioms_seed.sql`，再重新生成 SQLite 文件。
 - 不提交敏感信息、账号密码、API Key 或版权不明的大段文本。
 - 每次提交应保持 `cargo run -- exact 画蛇添足` 可运行。
+- 每次提交前优先运行 `./scripts/verify.sh`。
